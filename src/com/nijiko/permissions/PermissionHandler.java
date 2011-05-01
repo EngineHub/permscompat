@@ -20,7 +20,7 @@ package com.nijiko.permissions;
 
 import org.bukkit.entity.Player;
 
-public class PermissionsHandler {
+public class PermissionHandler {
     
     public boolean has(Player player, String perm) {
         throw new UnsupportedOperationException("Not implemented");

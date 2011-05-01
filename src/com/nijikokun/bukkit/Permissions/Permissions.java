@@ -18,13 +18,13 @@
 
 package com.nijikokun.bukkit.Permissions;
 
-import com.nijiko.permissions.PermissionsHandler;
+import com.nijiko.permissions.PermissionHandler;
 
 public class Permissions {
     
-    public static PermissionsHandler Security = new PermissionsHandler();
+    public static PermissionHandler Security = new PermissionHandler();
     
-    public PermissionsHandler getHandler() {
+    public PermissionHandler getHandler() {
         throw new UnsupportedOperationException("Not implemented");
     }
 }
