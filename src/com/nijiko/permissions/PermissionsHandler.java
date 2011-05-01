@@ -16,7 +16,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-package com.nijikokun.bukkit.Permissions;
+package com.nijiko.permissions;
 
 import org.bukkit.entity.Player;
 

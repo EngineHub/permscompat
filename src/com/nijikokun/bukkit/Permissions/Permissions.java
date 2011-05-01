@@ -18,6 +18,8 @@
 
 package com.nijikokun.bukkit.Permissions;
 
+import com.nijiko.permissions.PermissionsHandler;
+
 public class Permissions {
     
     public static PermissionsHandler Security = new PermissionsHandler();
