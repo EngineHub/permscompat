@@ -26,6 +26,10 @@ public class PermissionHandler {
         throw new UnsupportedOperationException("Not implemented");
     }
     
+    public boolean has(String worldName, String player, String perm) {
+        throw new UnsupportedOperationException("Not implemented");
+    }
+    
     public boolean permission(Player player, String perm) {
         throw new UnsupportedOperationException("Not implemented");
     }
