@@ -49,5 +49,9 @@ public class PermissionHandler {
     public String getGroup(String name) {
         throw new UnsupportedOperationException("Not implemented");
     }
+
+    public String[] getGroups(String world, String name) {
+        throw new UnsupportedOperationException("Not implemented");
+    }
     
 }
