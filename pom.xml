@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sk89q</groupId>
   <artifactId>dummypermscompat</artifactId>
-  <version>1.3</version>
+  <version>1.4</version>
   <name>DummyPermsCompat</name>
-  <description>Permissions classes to compile against</description>
+  <description>Permissions and PermissionsEx classes to compile against</description>
   <repositories>
     <repository>
       <id>bukkit-repo</id>
