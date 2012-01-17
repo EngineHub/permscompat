@@ -9,7 +9,7 @@
   <repositories>
     <repository>
       <id>bukkit-repo</id>
-      <url>http://repo.bukkit.org/artifactory/repo</url>
+      <url>http://repo.bukkit.org/content/groups/repo</url>
     </repository>
   </repositories>
   <dependencies>
@@ -40,7 +40,6 @@
               <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
             </manifest>
-            <pomPropertiesFile>true</pomPropertiesFile>
           </archive>
         </configuration>
       </plugin>
