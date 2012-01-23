@@ -18,6 +18,7 @@ public class PermissionManager {
         throw new UnsupportedOperationException("Not implemented.");
     }
 
+
     public PermissionUser getUser(String username) {
         throw new UnsupportedOperationException("Not implemented.");
     }
