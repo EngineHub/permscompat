@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sk89q</groupId>
   <artifactId>dummypermscompat</artifactId>
-  <version>1.8</version>
+  <version>1.10</version>
   <name>DummyPermsCompat</name>
-  <description>Permissions, bPermissions, and PermissionsEx classes to compile against</description>
+  <description>Permissions plugin API classes to compile against</description>
   <repositories>
     <repository>
-      <id>bukkit-repo</id>
-      <url>http://repo.bukkit.org/content/groups/public</url>
+      <id>sk89q-repo</id>
+      <url>http://maven.sk89q.com/repo</url>
     </repository>
   </repositories>
   <dependencies>
